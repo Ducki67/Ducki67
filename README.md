@@ -2,7 +2,7 @@
 - 👀 I’m interested in OG Fortnite Projects and hosting it
 - 🌱 I’m currently learning soo much stuff to be a Electrician in the future
 - 💞️ I’m respectful 
-- 📫 How to reach me: [Here](https://discord.gg/5FVqSp5BQj) át Project Blaze (Ogfn server)
+- 📫 How to reach me: [Here](https://discord.gg/5FVqSp5BQj) at Project Blaze (Ogfn server)
 - 😄 Pronouns: He/Him
 - ⚡ Language that i speak: Hungarian (mother language) | English (natively)
 - ✨ My first [repository](https://github.com/Ducki67/Fortnite-Build-Installer-Plus)
