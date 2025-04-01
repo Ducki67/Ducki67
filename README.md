@@ -13,7 +13,7 @@
  *Please check them out.*
 
 
-**ALPHA** (*OGFN Hosting , OLD FORTNITE*)
+ - - ✪ **♢ ALPHA ♢** (*OGFN Hosting , OLD FORTNITE*)
 
 ![BG v2  512](https://github.com/user-attachments/assets/89f43002-c092-490c-a5eb-01a07d906c3b)
 
@@ -22,12 +22,16 @@
 
 
 
-**Fortnite Build Download methods**
+ - - ✪ **♢ Fortnite Build Download methods ♢**
 
   ![fnch1old](https://github.com/user-attachments/assets/d2937bd9-742e-459a-8eb8-0f955b73bdeb)
 
  - *Fortnite Build Download methods | This features Archives, Websites and more ways to download builds from.*
  - [**>>Check the Repository here<<**](https://github.com/Ducki67/Fortnite-Build-Download-methods)
+
+# How you can support me:
+ - - *Help me and my repositories grow and Star them thats it if you do you will make me happy 😊.*
+
 
 
 <!---
