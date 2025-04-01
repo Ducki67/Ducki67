@@ -16,7 +16,9 @@
 **ALPHA** (*OGFN Hosting , OLD FORTNITE*)
  - *Old fortnite version hosted for multiplayer: (1.7.2 |1.10 | 1.11 | 2.2.0) and more.*
  - [**ALPHA Github page**](https://github.com/Ducki67/Alpha-OG-Fortnite) *here you can find more information about: backend, credits, launcher, GS, etc..*
-  ![BG v2 2](https://github.com/user-attachments/assets/01ccbc57-21e9-4295-a89d-39f97a2c93d4)
+
+![BG v2 2](https://github.com/user-attachments/assets/01ccbc57-21e9-4295-a89d-39f97a2c93d4)
+
 
 **Fortnite Build Download methods**
   ![fnch1old](https://github.com/user-attachments/assets/d2937bd9-742e-459a-8eb8-0f955b73bdeb)
