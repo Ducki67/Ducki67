@@ -1,13 +1,16 @@
 # Who i am?
 
-- 👋 Hi, I’m @Ducki67
-- 👀 I’m interested in OG Fortnite Projects and hosting it
-- 🌱 I’m currently learning soo much stuff to be a Electrician in the future
-- 💞️ I’m respectful 
-- 📫 How to reach me: [Here!](https://discord.gg/5FVqSp5BQj) at Project Blaze (Ogfn server)
-- 😄 Pronouns: He/Him
-- ⚡ Language that i speak: Hungarian (mother language) | English (natively)
-- ✨ star my repos and wish my good luck
+╭──────────────────────────────────────────────────────────────────────────────────╮
+- 👋 Hi, I’m @Ducki67                                                                       
+- 👀 I’m interested in OG Fortnite Projects and hosting it                                  
+- 🌱 I’m currently learning soo much stuff to be a Electrician in the future                
+- 💞️ I’m respectful                                                                         
+- 📫 How to reach me: [Here!](https://discord.gg/5FVqSp5BQj) at Project Blaze (Ogfn server) 
+- 😄 Pronouns: He/Him                                                                       
+- ⚡ Language that i speak: Hungarian (mother language) | English (natively)                
+- ✨ star my repos and wish me good luck 
+                                                   
+╰───────────────────────────────────────────────────────────────────────────────────╯
 
 # Projects | Repositories
  *Please check them out.*
