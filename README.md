@@ -1,16 +1,16 @@
 # Who i am?
 
-╭──────────────────────────────────────────────────────────────────────────────────╮
-- - 👋 Hi, I’m @Ducki67                                                                       
-- - 👀 I’m interested in OG Fortnite Projects and hosting it                                  
-- - 🌱 I’m currently learning soo much stuff to be a Electrician in the future                
-- - 📫 How to reach me: [Here at RevisitMP](https://discord.gg/5FVqSp5BQj) (*Project Revisit / Ogfn server*) 
-- - 💞️ I’m respectful                                                                         
-- - 😄 Pronouns: He/Him                                                                       
-- - ⚡ Language that i speak: Hungarian (mother language) | English (natively)                
-- - ✨ star my repos and wish me good luck 
+╭─────────────────────────────────────────────────────────────────────────────────╮
+- - 👋 Hi, I’m @Ducki67                                                    
+- - 👀 I’m interested in OG Fortnite Projects and hosting it.
+- - 🌱 I’m currently learning soo much stuff to be a Electrician in the future.
+- - 📫 How to reach me: [Here at RevisitMP](https://discord.gg/5FVqSp5BQj) (*Project Revisit / Ogfn server*)
+- - 💞️ I’m respectful.
+- - 😄 Pronouns: He/Him.
+- - ⚡ Language that i speak: Hungarian (mother language) | English (natively)
+- - ✨ star my repos and wish me good luck.
                                                    
-╰───────────────────────────────────────────────────────────────────────────────────╯
+╰──────────────────────────────────────────────────────────────────────────────────╯
 
 ## 📊 GitHub Stats
 ╭─────────────────────────────────────────────╮
