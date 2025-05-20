@@ -23,7 +23,6 @@
 
 ## 📌 Highlighted Projects
 
-![fnch1old](https://github.com/user-attachments/assets/d2937bd9-742e-459a-8eb8-0f955b73bdeb)
 *Please check them out.*
  
 
