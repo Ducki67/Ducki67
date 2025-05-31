@@ -39,6 +39,10 @@
 
   List of working download methods for old Fortnite builds.
 
+ - ➕ [✪ Fortnite Build-Installer(+) ✪](https://github.com/Ducki67/Fortnite-Build-Installer-Plus)  
+
+A Build-installer that has all season / chapter download support from (OT6.5 to 34.40).
+
 ╰─────────────────────────────────────────────╯
 
 
