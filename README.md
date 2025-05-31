@@ -28,6 +28,7 @@
 
 ╭─────────────────────────────────────────────╮
  - 🎮 ✪ [**♢ ALPHA OG FORTNITE♢**](https://github.com/Ducki67/Alpha-OG-Fortnite) (*OGFN Hosting , OLD FORTNITE*)
+![fnch1old x25](https://github.com/user-attachments/assets/43dbb773-d309-4cff-af48-662fd6f98055)
 
   Recreating classic Fortnite with Reload backend, fully hostable from 1.7.2 to 13.40.
 
@@ -39,7 +40,8 @@
 
   List of working download methods for old Fortnite builds.
 
- - ➕ [✪ Fortnite Build-Installer(+) ✪](https://github.com/Ducki67/Fortnite-Build-Installer-Plus)  
+ - ➕ [✪ Fortnite Build-Installer(+) ✪](https://github.com/Ducki67/Fortnite-Build-Installer-Plus)
+![FBI+ 2 nobg X86](https://github.com/user-attachments/assets/118def08-a985-4da3-8621-eeff9d970537)
 
 A Build-installer that has all season / chapter download support from (OT6.5 to 34.40).
 
