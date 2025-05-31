@@ -32,7 +32,7 @@
 
   Recreating classic Fortnite with Reload backend, fully hostable from 1.7.2 to 13.40.
 
- - 📁  [✪ OGFN Assets ✪](https://github.com/Ducki67/ogfn-assets)  
+ - 📁  [✪ OGFN Assets ✪](https://github.com/Ducki67/ogfn-assets)  ![FN folder X25](https://github.com/user-attachments/assets/531d7eb4-ce0d-445f-a803-b8c2817353bf)
 
   Assets and UI resources for custom Fortnite servers.
 
