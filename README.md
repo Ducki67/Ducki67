@@ -53,7 +53,8 @@ A Build-installer that has all season / chapter download support from (OT6.5 to 
 
 ╭────────────────────────────────────────────────────────────╮
 
-*Help me and my repositories grow and Star them thats it if you do you will make me happy 😊.*
+ - *Help me and my repositories grow and Star them thats it, if you do you will make me happy 😊.*
+ - *Feel free to contibute to any of my Projects mainly Alhpa ogfn 📈.*
 
 ╰────────────────────────────────────────────────────────────╯
 
