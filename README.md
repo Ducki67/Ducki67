@@ -30,7 +30,7 @@
  - 🎮 ✪ [**♢ ALPHA OG FORTNITE♢**](https://github.com/Ducki67/Alpha-OG-Fortnite) (*OGFN Hosting , OLD FORTNITE*)
 ![fnch1old x25](https://github.com/user-attachments/assets/43dbb773-d309-4cff-af48-662fd6f98055)
 
-  Recreating classic Fortnite with Reload backend, fully hostable from 1.7.2 to 13.40.
+  Recreating classic Fortnite with Reload backend, fully hostable for versions: 1.7.2 | 1.8 | 1.11 | 2.3 | 13.40 and more!
 
  - 📁  [✪ OGFN Assets ✪](https://github.com/Ducki67/ogfn-assets)  ![FN folder X25](https://github.com/user-attachments/assets/531d7eb4-ce0d-445f-a803-b8c2817353bf)
 
