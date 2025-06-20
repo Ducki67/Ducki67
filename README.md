@@ -56,7 +56,7 @@
 >
 >The links and file sources are NOT mine but thsese links should work.
 
->- 📁 [FN-Builds-Alternative](https://example.com) ⚙️
+>- 📁 [FN-Builds-Alternative](https://github.com/Ducki67/FN-Builds-Alternative) ⚙️
 __🚧 Currently being made /  Under some construction 🚧__
 >
 >An archive that has **all** downloadable seasons and builds with **alternative** links and sources.
