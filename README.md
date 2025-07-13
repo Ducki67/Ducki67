@@ -23,6 +23,11 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ducki67&layout=compact&theme=tokyonight)
 
+### Stuff that i use / care about:
+
+*(not all the time and not all of them)*
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,discordjs,js,html,cpp,cs,mongodb,&perline=4)](https://skillicons.dev)
 
 
 ## 📌 Highlighted Projects
