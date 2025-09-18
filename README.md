@@ -6,14 +6,16 @@
 >- - 🌱 I’m currently learning soo much stuff to be a Electrician in the future.
 >
 >>- - 📫 **How to reach me:**
->>  - [Here at RevisitMP](https://discord.gg/FkHry6uKj2) [Revisit guns.lol](https://guns.lol/revisitmp) (*Project Revisit / Ogfn server*)
->>  - [Alpha OGFN](https://discord.gg/292V4yQnuk) (*my ogfn server*)
->
+>>  - Discord: **`ducki67`**
+>>  - [**Alpha OGFN**](https://discord.gg/292V4yQnuk) (*my ogfn server*)
+>>  - **Github issues** which i do check but i might be slow to respond there.
+
 >>- - **What i am?**
+>>  - 🤲 A simple Hungarian 
 >> - 💞️ I’m respectful.
 >> - 😄 Pronouns: He/Him.
->> - ⚡ Language that i speak: Hungarian (mother language) | English (natively)
->> - ✨ star my repos and wish me good luck.
+>> - ⚡ Languages that i speak: Hungarian (mother language) | English (natively)
+
                                                    
 
 
@@ -38,13 +40,15 @@
  >- 🎮 [**♢ ALPHA OG FORTNITE ♢**](https://github.com/Ducki67/Alpha-OG-Fortnite) (*OGFN Hosting , OLD FORTNITE*)
 ![fnch1old x25](https://github.com/user-attachments/assets/43dbb773-d309-4cff-af48-662fd6f98055)
 >
->Recreating classic Fortnite with Reload backend, fully hostable for versions: 1.7.2 | 1.8 | 1.11 | 2.3 | 13.40 and more!
+>Recreating classic Fortnite with Reload backend, fully hostable for versions: 1.7.2 | 1.8.2 | 1.11 | 2.3 | 24.40 and more a lil' more!
 
  >- 📁  [✪ OGFN Assets ✪](https://github.com/Ducki67/ogfn-assets)  ![FN folder X25](https://github.com/user-attachments/assets/531d7eb4-ce0d-445f-a803-b8c2817353bf)
  >
  > Assets and Puctire resources for custom Fortnite servers. (From my own project)
+>Contains my images that i use for backend and custom playlist keyarts
 
->- ⚙️  [✪ Fortnite Build Download Methods ✪](https://github.com/Ducki67/Fortnite-Build-Download-methods)  
+
+>- ⚙️  [✪ Fortnite Build Download Methods ✪](https://github.com/Ducki67/Fortnite-Build-Download-methods)  (This might be out dated lol)
 >
 >List of working download methods for old Fortnite builds.
 >
@@ -53,13 +57,14 @@
 > - ➕ [✪ Fortnite Build-Installer(+) ✪](https://github.com/Ducki67/Fortnite-Build-Installer-Plus)
 ![FBI+ 2 nobg X86](https://github.com/user-attachments/assets/118def08-a985-4da3-8621-eeff9d970537)
 >
->A Build-installer that has all season / chapter download support from (OT6.5 to 34.40).
+>A Build-installer that has all season / chapter download support from (OT6.5 to 34.40). (*Developmet around this is kinda slowed down btw*)
 
 >- 📁 [✪ FN-MODERN builds ✪](https://github.com/Ducki67/FN-Modern-builds) __🚧 Currently under some construction 🚧__
 >
 >An archive that has Modern Fortnite builds from Chapter 4 up to Chapter 6.
 >
 >The links and file sources are NOT mine but thsese links should work.
+> **+** a Reboot s20+ document / build tests
 
 >- 📁 [FN-Builds-Alternative](https://github.com/Ducki67/FN-Builds-Alternative) ⚙️
 __🚧 Currently being made /  Under some construction 🚧__
@@ -85,9 +90,9 @@ __🚧 Currently being made /  Under some construction 🚧__
 >- [Site](https://ducki67.github.io/D67.site/)
 >- - **EEE**
 >- [Repo](https://github.com/Ducki67/EEE) _Made in Html for trolling_
->- *Send this link to someone 😄 on Discord*, Link: *https://ducki67.github.io/EEE*
+>- *Send this link to someone 😄 on Discord*, Link: *https://ducki67.github.io/EEE* or add /goober to the end of the link for a 2nd suprise :))
 >- - **FN Redirect dlls**
->- *Just redirect dlls to hostit on Github for launchers, the dlls Not made by me.* [Repo](https://github.com/Ducki67/Fortnite-redirect-dlls)
+>- *Just redirect dlls to host it on Github for launchers, the dlls Not made by me.* [Repo](https://github.com/Ducki67/Fortnite-redirect-dlls)
 
 
 
