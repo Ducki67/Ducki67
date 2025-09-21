@@ -24,6 +24,8 @@
   ![Ducki67's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ducki67&show_icons=true&theme=tokyonight&hide=issues)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ducki67&layout=compact&theme=tokyonight)
+( ***C++ is mostly here cuz i have a lot of forks and privated sources*** )
+
 
 ### Stuff that i use / care about:
 
