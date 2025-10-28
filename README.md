@@ -1,5 +1,10 @@
 # _Who i am?_
 
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1248639172734881843?theme=dark&animated=true&borderRadius=15px" alt="Discord Presence"/>
+</p>
+
+
 
 >- - 👋 Hi, I’m **@Ducki67**                                                    
 >- - 👀 I’m interested in OG Fortnite Projects and hosting it.
