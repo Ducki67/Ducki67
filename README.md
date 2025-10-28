@@ -1,25 +1,22 @@
 # _Who i am?_
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1248639172734881843?theme=dark&animated=true&borderRadius=15px" alt="Discord Presence"/>
+<p align="left">
+  <img src="https://lanyard.cnrad.dev/api/1248639172734881843?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"/>
 </p>
-
-
 
 >- - 👋 Hi, I’m **@Ducki67**                                                    
 >- - 👀 I’m interested in OG Fortnite Projects and hosting it.
 >- - 🌱 I’m currently learning soo much stuff to be a Electrician in the future.
 >
->>- - 📫 **How to reach me:**
->>  - Discord: **`ducki67`**
->>  - [**Alpha OGFN**](https://discord.gg/292V4yQnuk) (*my ogfn server*)
->>  - **Github issues** which i do check but i might be slow to respond there.
+>- - 📫 **How to reach me:**
+>  - Discord: **`ducki67`**
+>  - [**Alpha OGFN**](https://discord.gg/292V4yQnuk) (*my ogfn server*)
+>  - **Github issues** which i do check but i might be slow to respond there.
 
->>- - **What i am?**
->>  - 🤲 A simple Hungarian 
->> - 💞️ I’m respectful.
->> - 😄 Pronouns: He/Him.
->> - ⚡ Languages that i speak: Hungarian (mother language) | English (natively)
+>- - **What i am?**
+>  - 🤲 A simple Hungarian 
+> - 💞️ I’m respectful.
+> - 😄 Pronouns: He/Him.
+> - ⚡ Languages that i speak: Hungarian (mother language) | English (natively)
 
                                                    
 
