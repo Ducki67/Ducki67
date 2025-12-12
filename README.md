@@ -35,7 +35,7 @@
 *(not all the time and not all of them)*
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,discordjs,js,html,cpp,cs,mongodb,gmail,discord,&perline=5)](https://skillicons.dev)
-
+Mostly i use: VSC, VS2022, MongoDB and Discord
 
 ## 📌 Highlighted Projects
 
@@ -64,27 +64,13 @@
 >
 >A Build-installer that has all season / chapter download support from (OT6.5 to 34.40). (*Developmet around this is kinda slowed down btw*)
 
->- 📁 [✪ FN-MODERN builds ✪](https://github.com/Ducki67/FN-Modern-builds) __🚧 Currently under some construction 🚧__
->
->An archive that has Modern Fortnite builds from Chapter 4 up to Chapter 6.
->
->The links and file sources are NOT mine but thsese links should work.
-> **+** a Reboot s20+ document / build tests
-
->- 📁 [FN-Builds-Alternative](https://github.com/Ducki67/FN-Builds-Alternative) ⚙️
-__🚧 Currently being made /  Under some construction 🚧__
->
->An archive that has **all** downloadable seasons and builds with **alternative** links and sources.
->
->Note: I do NOT host any files in this repo!!
-
 
 # How you can support me:
 
  - *Help me and my repositories grow and Star them thats it, if you do you will make me happy 😊.*
  - *Feel free to contibute to any of my **Projects** mainly **Alpha ogfn** 📈.*
 
-
+<!---
 # Other weird stuff here😄
 
 *Just some other weird stuff taht i made.*
@@ -99,7 +85,7 @@ __🚧 Currently being made /  Under some construction 🚧__
 >- - **FN Redirect dlls**
 >- *Just redirect dlls to host it on Github for launchers, the dlls Not made by me.* [Repo](https://github.com/Ducki67/Fortnite-redirect-dlls)
 
-
+--->
 
 <!---
 Ducki67/Ducki67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
