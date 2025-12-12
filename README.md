@@ -34,7 +34,7 @@
 
 *(not all the time and not all of them)*
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,discordjs,js,html,cpp,cs,mongodb,gmail,discord,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,discordjs,js,html,cpp,cs,mongodb,gmail,discord,&perline=5)](https://skillicons.dev) <br/>
 Mostly i use: VSC, VS2022, MongoDB and Discord
 
 ## 📌 Highlighted Projects
